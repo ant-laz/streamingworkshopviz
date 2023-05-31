@@ -1,0 +1,1 @@
+{"ride_id": "fa96fa7c-9377-458f-850b-2beec8343207", "duration": 0.0, "min_timestamp": "2023-04-26T00:03:26.117490-04:00", "max_timestamp": "2023-04-26T00:03:26.117490-04:00", "count": 1, "init_status": "enroute", "end_status": "enroute", "trigger": "ON TIME", "window_start": "2023-04-26T04:03:26.117000Z", "window_end": "2023-04-26T04:04:26.117000Z"}
