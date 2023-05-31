@@ -1,0 +1,1 @@
+{"ride_id": "277278c9-9e5e-4aa9-b1b9-3e38e2133e5f", "duration": 1215.0, "min_timestamp": "2023-04-21T16:17:09.731600-04:00", "max_timestamp": "2023-04-21T16:37:24.731600-04:00", "count": 15, "init_status": "pickup", "end_status": "dropoff", "trigger": "ON TIME", "window_start": "2023-04-21T20:17:09.731000Z", "window_end": "2023-04-21T21:07:24.731000Z"}
