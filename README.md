@@ -1,7 +1,7 @@
 # streamingworkshopviz
 Visualization of a streaming pipeline built using Apache Beam in Python
 
-![overview of dashboard](/images/dash_preview_2.gif)
+![overview of dashboard](/images/dash_preview_3.gif)
 
 ## python environment setup
 
