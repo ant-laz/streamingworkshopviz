@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## visualize the pipeline for 01_complete_ride
 
-for the following inptus
+for the following inputs
 
 ```
 streamlit run myviz.py -- \
@@ -51,7 +51,7 @@ Scrolling down the dashboard display what the data looks like throughout the pip
 
 ## visualize the pipeline for 05min_of_rides
 
-for the following inptus
+for the following inputs
 
 ```
 streamlit run myviz.py -- \
